@@ -173,7 +173,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/world-tiles\/community\/cert\/imgs\/tilesheets\/tilesets_deviant_milkian_1.png",
+         "image":"Tiles\/community\/cert\/imgs\/tilesheets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -186,7 +186,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"..\/world-tiles\/community\/cert\/imgs\/tilesheets\/dungeon.png",
+         "image":"Tiles\/community\/cert\/imgs\/tilesheets\/dungeon.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -212,7 +212,7 @@
         {
          "columns":16,
          "firstgid":385,
-         "image":"..\/world-tiles\/structures\/rc3-mullana-floor-wall.png",
+         "image":"Tiles\/structures\/rc3-mullana-floor-wall.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -225,7 +225,7 @@
         {
          "columns":8,
          "firstgid":641,
-         "image":"..\/..\/Downloads\/floor_tiles.png",
+         "image":"Tiles\/floor_tiles.png",
          "imageheight":128,
          "imagewidth":256,
          "margin":0,
@@ -248,7 +248,7 @@
         {
          "columns":4,
          "firstgid":673,
-         "image":"..\/world-tiles\/other\/Jonas\/blautone_v4.png",
+         "image":"Tiles\/other\/Jonas\/blautone_v4.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -271,7 +271,7 @@
         {
          "columns":18,
          "firstgid":689,
-         "image":"..\/world-tiles\/community\/bytewerk\/cija_32x32_expansion for Pipoya_CC0.png",
+         "image":"Tiles\/community\/bytewerk\/cija_32x32_expansion for Pipoya_CC0.png",
          "imageheight":4256,
          "imagewidth":576,
          "margin":0,
@@ -284,7 +284,7 @@
         {
          "columns":2,
          "firstgid":3083,
-         "image":"..\/world-tiles\/other\/Jonas\/torbogen_slim.png",
+         "image":"Tiles\/other\/Jonas\/torbogen_slim.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -297,7 +297,7 @@
         {
          "columns":1,
          "firstgid":3087,
-         "image":"..\/world-tiles\/other\/Jonas\/tor_ohne_bogen_v1.png",
+         "image":"Tiles\/other\/Jonas\/tor_ohne_bogen_v1.png",
          "imageheight":64,
          "imagewidth":32,
          "margin":0,
@@ -310,7 +310,7 @@
         {
          "columns":1,
          "firstgid":3089,
-         "image":"..\/world-tiles\/other\/Collidable-blauerRand.png",
+         "image":"Tiles\/other\/Collidable-blauerRand.png",
          "imageheight":32,
          "imagewidth":32,
          "margin":0,
@@ -333,7 +333,7 @@
         {
          "columns":9,
          "firstgid":3090,
-         "image":"..\/world-tiles\/structures\/mapUtilities.png",
+         "image":"Tiles\/structures\/mapUtilities.png",
          "imageheight":32,
          "imagewidth":288,
          "margin":0,
